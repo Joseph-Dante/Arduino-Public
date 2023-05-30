@@ -1,8 +1,6 @@
 ***************************************************
 
-  (c) Chris Sgaraglino (https://www.sgaraglino.com)
-  Uasge Rights: https://www.sgaraglino.com/usage-rights
-  License: Creative Commons 3.0
+  Delete the heading info
 
 ***************************************************
 
